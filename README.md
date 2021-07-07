@@ -1,7 +1,7 @@
 # Ecom ECommerce Website
 
 1. To run this code
-   1. npm install in root 
+   1. Install dependencies using npm from repository root `npm install` (as user with appropriate permissions)
 2. Install Tools
    1. Code Editor
    2. Web Browser
